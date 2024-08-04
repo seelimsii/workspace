@@ -3,7 +3,7 @@
 <body>
 
 <h1>My first PHP page! 
-welcome! 
+welcome to my pg! 
 </h1>
 
 <?php
