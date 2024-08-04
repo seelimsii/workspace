@@ -3,7 +3,7 @@
 <body>
 
 <h1>My first PHP page! 
-welcome! I love india
+welcome! 
 </h1>
 
 <?php
